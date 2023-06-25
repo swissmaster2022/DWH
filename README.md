@@ -10,3 +10,4 @@ The following tasks are performed in this repository code
 - Creation of AWS PostgreSQL Data Lake and Data Warehouse databases
 - Creating tables in PostgreSQL and importing data from CSV files
 - ETL Process for the data sources
+Open DW-Clean+DB.ipynb
